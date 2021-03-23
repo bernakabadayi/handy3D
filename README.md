@@ -15,3 +15,6 @@ helpful repos for 3d &amp; learning
 
 ## Rendering
 - Mitsuba-shapenet https://github.com/shi-jian/mitsuba-shapenet
+
+## Utility
+- Pybind https://github.com/pybind/pybind11
