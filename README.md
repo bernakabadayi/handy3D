@@ -10,6 +10,9 @@ helpful repos for 3d &amp; learning
 - PyMesh https://github.com/PyMesh/PyMesh
 - pcl https://github.com/PointCloudLibrary/pcl
 
+## Solver, linear algebra
+- eigen https://gitlab.com/libeigen/eigen
+
 ## Implicit
 - SDFGen https://github.com/christopherbatty/SDFGen
 - Scan2CAD - Vox2Mesh https://github.com/skanti/Scan2CAD/blob/ad1998bab87cb1d276243c27e2cb622f93582547/Routines/DFGen/main.cpp#L6
