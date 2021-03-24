@@ -4,7 +4,6 @@ helpful repos for 3d &amp; learning
 ## Deep Learning
 - pytorch-summary: https://github.com/sksq96/pytorch-summary
 
-
 ## Geometry Processing
 - libigl https://github.com/libigl/libigl
 - Trimesh https://github.com/mikedh/trimesh
@@ -18,3 +17,4 @@ helpful repos for 3d &amp; learning
 
 ## Utility
 - Pybind https://github.com/pybind/pybind11
+- 3D Rotation Converter: https://www.andre-gaschler.com/rotationconverter/
