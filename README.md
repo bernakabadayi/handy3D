@@ -8,6 +8,7 @@ helpful repos for 3d &amp; learning
 - libigl https://github.com/libigl/libigl
 - Trimesh https://github.com/mikedh/trimesh
 - PyMesh https://github.com/PyMesh/PyMesh
+- pcl https://github.com/PointCloudLibrary/pcl
 
 ## Implicit
 - SDFGen https://github.com/christopherbatty/SDFGen
