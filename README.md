@@ -7,6 +7,7 @@ helpful repos for 3d &amp; learning
 ## Geometry Processing
 - libigl https://github.com/libigl/libigl
 - Trimesh https://github.com/mikedh/trimesh
+- PyMesh https://github.com/PyMesh/PyMesh
 
 ## Implicit
 - SDFGen https://github.com/christopherbatty/SDFGen
