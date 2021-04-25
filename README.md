@@ -12,6 +12,7 @@ helpful repos for 3d &amp; learning
 
 ## Solver, linear algebra
 - eigen https://gitlab.com/libeigen/eigen
+- pymesh boolean https://pymesh.readthedocs.io/en/latest/mesh_boolean.html
 
 ## Implicit
 - SDFGen https://github.com/christopherbatty/SDFGen
