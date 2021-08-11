@@ -24,3 +24,6 @@ helpful repos for 3d &amp; learning
 ## Utility
 - Pybind https://github.com/pybind/pybind11
 - 3D Rotation Converter: https://www.andre-gaschler.com/rotationconverter/
+
+## Riemannian Geometry
+- http://comet.lehman.cuny.edu/sormani/research/riemgeom.html
